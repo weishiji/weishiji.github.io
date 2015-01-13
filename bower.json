@@ -1,0 +1,24 @@
+{
+  "name": "weishiji.github.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/weishiji/weishiji.github.io",
+  "authors": [
+    "刘小光 <liuxiaoguang@zihua.com.cn>"
+  ],
+  "description": "www.weishiji.github.io",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
